@@ -1,1 +1,1 @@
-This is Dieter's fist git project
+This is LeprechaunWizard's fist git project
